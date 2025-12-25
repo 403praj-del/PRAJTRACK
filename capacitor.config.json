@@ -1,0 +1,8 @@
+{
+  "appId": "com.paymenttracker.app",
+  "appName": "Payment Tracker",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  }
+}
